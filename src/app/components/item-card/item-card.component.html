@@ -1,0 +1,13 @@
+<a [href]="data?.itemUrl" target="_blank" class="link">
+    <div>
+        <h2>{{ data?.title }}</h2>
+        <p>{{ data?.description }}</p>
+    </div>
+    <img
+        class="icon"
+        [src]="data?.image?.url"
+        width="64"
+        height="64"
+        alt="Common utils logo"
+    />
+</a>

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "primathontech"
+    }
+  },
+  "defaultProject": "primathontech",
+  "cli": {
+    "analytics": "74181338-9ea7-407b-9dec-4c4a8a4c6bda"
+  }
 }
